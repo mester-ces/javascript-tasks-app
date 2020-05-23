@@ -1,5 +1,5 @@
 {
-  "name": "javascript-todo-app",
+  "name": "Organizador de Tareas",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "dev": "live-server src/"
   },
   "keywords": [],
-  "author": "",
+  "author": "mester-ces",
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.0"
